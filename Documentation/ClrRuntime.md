@@ -264,6 +264,7 @@ than 0. You can tell if a particular handle is strong with the
 `GCHeapHandle.Strong` property.
 
 There are 9 handle types, each with a special meaning:
+
 1. **WeakShort** - A weak handle which is meant to be short lived in the
    process.
 2. **WeakLong** - A weak handle which is meant to be long lived in the process.
